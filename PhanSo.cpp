@@ -14,5 +14,5 @@ PhanSo::~PhanSo() {
 }
 
 void PhanSo::printValue() {
-    std::cout << m_tu << "/" << m_tu << std::endl;
+    
 }
