@@ -14,5 +14,5 @@ PhanSo::~PhanSo() {
 }
 
 void PhanSo::printValue() {
-    
+
 }
