@@ -8,12 +8,12 @@
 
 class PhanSo {
 private:
-    int  m_tu;
+    int m_tu;
     int m_mau;
 public:
     PhanSo(int tu, int mau);
     ~PhanSo();
-    void PrintValue();
+    void printValue();
 };
 
 

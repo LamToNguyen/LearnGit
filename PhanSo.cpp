@@ -3,6 +3,7 @@
 //
 
 #include "PhanSo.h"
+#include <iostream>
 
 PhanSo::PhanSo(int tu, int mau) {
     this->m_tu=tu;
@@ -13,6 +14,6 @@ PhanSo::~PhanSo() {
 
 }
 
-void PhanSo::PrintValue() {
+void PhanSo::printValue() {
 
 }
