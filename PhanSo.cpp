@@ -13,6 +13,6 @@ PhanSo::~PhanSo() {
 
 }
 
-void PhanSo::PrintValue() {
+void PhanSo::printValue() {
     std::cout << m_tu << "/" << m_tu << std::endl;
 }
