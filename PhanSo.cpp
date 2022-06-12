@@ -6,8 +6,7 @@
 #include <iostream>
 
 PhanSo::PhanSo(int tu, int mau) {
-    this->m_tu=tu;
-    this->m_mau=mau;
+
 }
 
 PhanSo::~PhanSo() {
@@ -15,5 +14,5 @@ PhanSo::~PhanSo() {
 }
 
 void PhanSo::printValue() {
-
+    std::cout<<m_tu<<"/"<<m_mau<<std::endl;
 }
